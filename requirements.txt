@@ -1,0 +1,11 @@
+pdfplumber
+openai
+pydantic
+polars
+seaborn
+matplotlib
+ipykernel
+pyarrow
+scikit-learn
+# pytesseract
+google-cloud-vision
