@@ -8,4 +8,5 @@ ipykernel
 pyarrow
 scikit-learn
 # pytesseract
-google-cloud-vision
+# google-cloud-vision
+xgboost
